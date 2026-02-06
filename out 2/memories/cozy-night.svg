@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#FFF1DF"/>
+  <rect x="100" y="120" width="1000" height="520" rx="40" fill="#FFE6CF" stroke="#D26A87" stroke-width="10"/>
+  <rect x="180" y="420" width="840" height="150" rx="26" fill="#FFF8EE"/>
+  <rect x="220" y="240" width="760" height="140" rx="20" fill="#FFDCCA"/>
+  <circle cx="320" cy="300" r="22" fill="#F2B665"/>
+  <circle cx="420" cy="300" r="22" fill="#F2B665"/>
+  <circle cx="520" cy="300" r="22" fill="#F2B665"/>
+  <path d="M640 300H910" stroke="#D26A87" stroke-width="18" stroke-linecap="round"/>
+  <path d="M360 420C470 340 730 340 840 420" stroke="#D26A87" stroke-width="8" stroke-linecap="round"/>
+  <path d="M600 430C565 380 487 395 487 470C487 535 565 586 600 618C635 586 713 535 713 470C713 395 635 380 600 430Z" fill="#D26A87"/>
+  <text x="600" y="700" fill="#6B2B42" font-family="Georgia, serif" font-size="48" text-anchor="middle">Cozy Night Chapter</text>
+</svg>
