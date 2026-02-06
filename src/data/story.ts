@@ -1,6 +1,6 @@
 export const coupleProfile = {
   yourName: "Umer (your Shona)",
-  partnerName: "Aarya (my Jaan)",
+  partnerName: "My Jaan",
   relationshipStart: "April 27, 2024",
   proposalDate: "Present",
 };
