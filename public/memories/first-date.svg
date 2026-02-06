@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#FFE6CF"/>
+  <circle cx="230" cy="170" r="96" fill="#FFC6A3"/>
+  <circle cx="960" cy="190" r="116" fill="#FFD6B8"/>
+  <rect x="160" y="380" width="310" height="210" rx="26" fill="#FFF8EE" stroke="#D26A87" stroke-width="8"/>
+  <rect x="730" y="380" width="310" height="210" rx="26" fill="#FFF8EE" stroke="#D26A87" stroke-width="8"/>
+  <path d="M315 380V330C315 300 338 276 368 276C398 276 421 300 421 330V380" stroke="#D26A87" stroke-width="16" stroke-linecap="round"/>
+  <path d="M885 380V330C885 300 862 276 832 276C802 276 779 300 779 330V380" stroke="#D26A87" stroke-width="16" stroke-linecap="round"/>
+  <path d="M595 355C560 305 482 320 482 395C482 460 560 512 595 544C630 512 708 460 708 395C708 320 630 305 595 355Z" fill="#D26A87"/>
+  <text x="600" y="680" fill="#6B2B42" font-family="Georgia, serif" font-size="48" text-anchor="middle">First Date Energy</text>
+</svg>

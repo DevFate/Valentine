@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#FFD9C3"/>
+  <path d="M0 760V500C140 450 280 470 420 520C560 570 700 590 840 550C980 510 1120 470 1200 500V760H0Z" fill="#F08B6E"/>
+  <path d="M0 760V560C140 520 280 530 420 570C560 610 700 620 840 590C980 560 1120 530 1200 550V760H0Z" fill="#D26A87"/>
+  <circle cx="780" cy="210" r="120" fill="#FFF8EE"/>
+  <circle cx="760" cy="200" r="120" fill="#FFD9C3"/>
+  <path d="M290 550L510 310L670 470L900 220" stroke="#FFF8EE" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="290" cy="550" r="18" fill="#FFF8EE"/>
+  <circle cx="510" cy="310" r="18" fill="#FFF8EE"/>
+  <circle cx="670" cy="470" r="18" fill="#FFF8EE"/>
+  <circle cx="900" cy="220" r="18" fill="#FFF8EE"/>
+  <text x="600" y="690" fill="#FFF8EE" font-family="Georgia, serif" font-size="52" text-anchor="middle">Us, Still Growing</text>
+</svg>

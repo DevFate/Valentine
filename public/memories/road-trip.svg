@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#FFDCCA"/>
+  <circle cx="940" cy="160" r="90" fill="#F2B665"/>
+  <path d="M0 460C140 430 280 430 420 460C560 490 700 490 840 460C980 430 1120 430 1200 460V760H0V460Z" fill="#FFB898"/>
+  <path d="M0 550C140 510 280 510 420 550C560 590 700 590 840 550C980 510 1120 510 1200 550V760H0V550Z" fill="#F08B6E"/>
+  <rect x="290" y="420" width="620" height="180" rx="32" fill="#FFF8EE" stroke="#D26A87" stroke-width="8"/>
+  <circle cx="420" cy="610" r="42" fill="#6B2B42"/>
+  <circle cx="780" cy="610" r="42" fill="#6B2B42"/>
+  <path d="M350 420L430 350H770L850 420" stroke="#D26A87" stroke-width="10" stroke-linecap="round"/>
+  <text x="600" y="700" fill="#6B2B42" font-family="Georgia, serif" font-size="48" text-anchor="middle">Tiny Adventures</text>
+</svg>
